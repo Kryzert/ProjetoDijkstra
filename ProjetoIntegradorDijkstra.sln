@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoIntegradorDijkstra", "ProjetoIntegradorDijkstra.csproj", "{21FA32AE-06B5-46D0-B088-AC7027C38E5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21FA32AE-06B5-46D0-B088-AC7027C38E5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21FA32AE-06B5-46D0-B088-AC7027C38E5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21FA32AE-06B5-46D0-B088-AC7027C38E5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21FA32AE-06B5-46D0-B088-AC7027C38E5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D538CF9-40D3-4AD9-A376-AE4199A0205B}
+	EndGlobalSection
+EndGlobal
